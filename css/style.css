@@ -45,6 +45,10 @@ a:hover, a:active{
     background-color: red;
 }
 
-h1{
-    text-align: center;
+.subtitulo{
+    text-align: 50px;
+}
+
+h3,h4{
+    text-indent: 50px; 
 }
